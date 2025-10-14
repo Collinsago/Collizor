@@ -1,5 +1,3 @@
-# Collinsago.github.io
-
 # 💫 About Me:
 🔭 I’m currently working java<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with senior devs<br>🌱 I’m currently learning java<br>💬 Ask me about<br>⚡ Fun fact
 
